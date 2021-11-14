@@ -1,0 +1,12 @@
+company,sentiment
+Amazon,positive
+Toyota,wnegative
+Tesla,wnegative
+Amazon,neutral
+Apple,wpositive
+Tesla,neutral
+Target,neutral
+UPS,wnegative
+Facebook,wpositive
+Toyota,wpositive
+CVS,wpositive
