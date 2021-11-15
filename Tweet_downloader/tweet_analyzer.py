@@ -280,16 +280,19 @@ class TweetAnalyzer():
     def detect_companies(self, tweet):
         
         company_names = companies.keys()
+        stock_names = companies_stock_market.keys()
 
         # create an empty dictionary
         result = []
 
-        #split each tweet into a list of words
+        # split each tweet into a list of words
         words = tweet.split()
 
         for word in words:
-            if word in company_names:
+            if (word in company_names or word in stock_names):
                 if(word not in result):
+                    if(word in stock_names):
+                        word = companies_stock_market[word]
                     result.append(word)
 
         return result

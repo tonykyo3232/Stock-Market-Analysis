@@ -28,7 +28,7 @@ def main():
     # loop though the desired twitter accounts and download tweets
     for key, value in twitter_accounts.items():
         print("Downloading tweets from @" + value + "...")
-        get_twitter_feed(value, 1500)
+        get_twitter_feed(value, 2000)
         print("@" + value + " tweets download completed")
         time.sleep(5) 
     

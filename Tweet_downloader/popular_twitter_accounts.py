@@ -1,13 +1,17 @@
 '''
 returns a dictionary of twitter account that discusses stock market
-# reference: https://mywallst.com/blog/best-investing-twitter-accounts/
+# reference: https://www.investopedia.com/financial-edge/0712/10-twitter-feeds-investors-should-follow.aspx
 '''
 
 twitter_accounts = {
 	'Jim Cramer': 'jimcramer',
+	'CNBC': 'CNBC',
+	'Benzinga': 'Benzinga',
 	'Stocktwits': 'Stocktwits',
-	'Peter Brandt': 'PeterLBrandt',
-	'Investors.com': 'IBDinvestors',
-	'Yahoo Finance': 'YahooFinance',
-	'CNN Breaking News':'cnnbrk'
+	'Top Breakout Stocks': 'BreakoutStocks',
+	'Bespoke': 'bespokeinvest',
+	'WSJ Markets':'WSJmarkets',
+	'Stephanie Link':'Stephanie_Link',
+	'NYT Business':'nytimesbusiness',
+	'Investors.com':'IBDinvestors'
 	}
