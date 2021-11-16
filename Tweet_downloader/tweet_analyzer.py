@@ -52,7 +52,7 @@ class TweetAnalyzer():
 
     # return the file name with its tweet account and number of tweets 
     def get_filename(self):
-        return self._date + "_@" + self._tweet_account + "_" + str(self._num_of_tweets) + "_tweets"
+        return self._date + "_@" + self._tweet_account + "_tweets"
 
     """
     Use regular expression library to clear the text
@@ -63,10 +63,11 @@ class TweetAnalyzer():
         cleaned_text = ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweet).split())
         return cleaned_text
 
+
     '''
     save the tweets to data frame of: tweet, id, len, date, source, likes, retweets
     '''
-    def tweets_to_data_frame1(self, tweets):
+    def tweets_to_data_frame2(self, tweets):
 
         # extract the texts from each of those tweets
         df = pd.DataFrame(data=[self.clean_tweet(tweet.full_text) for tweet in tweets], columns=['tweets'])
@@ -94,44 +95,42 @@ class TweetAnalyzer():
     '''
     save the tweets to data frame of: tweet, date, source, likes, retweets
     '''
-    def tweets_to_data_frame2(self, tweets):
+    def tweets_to_data_frame(self, tweets):
 
-        # extract the texts from each of those tweets
-        tweet_df = pd.DataFrame(data=[self.clean_tweet(tweet.full_text) for tweet in tweets], columns=['tweets'])
+        date = str(datetime.date.today())
+        data = []
 
+        # filter the tweets and only save for today's tweets
+        for tweet in tweets:
+            t = self.clean_tweet(tweet.full_text)
+            tweet_date = str(tweet.created_at)[0:10]
+            if(tweet_date == date):
+                data.append(t)
+
+        tweet_df = pd.DataFrame(data, columns=['tweets'])
+
+        # assign the sentiment value to each tweets
         result = self.sentiment_tweet(tweet_df)
 
-        #
+        # save the polarity value to data frame
         df = pd.DataFrame(result[0], columns=['polarity'])
 
-        #
+        # save the sentiment value to data frame
         df['sentiment'] = pd.DataFrame(result[1], columns=['sentiment'])
 
-        #
+        # save the correspond company names to data frame
         df['companies'] = pd.DataFrame(result[2], columns=['companies'])
 
-        #
-        new_df = self.to_df(df)
+        # remove the tweets that do not mention any company
+        new_df = self.clean_df(df)
 
         return new_df
-
-    '''
-    extract the hashtag from tweets
-    '''
-    def hashtag_extract(self, tweets):
-        hashtags = []
-        # loop words in the tweet
-        for tweet in tweets:
-            ht = re.findall(r"#(\w+)", tweet)
-            if(len(ht)):
-                hashtags.append(ht)
-        return hashtags
 
     '''
     convert to a new data frame
     to get rid of the tweets that didn't mention any companies
     '''
-    def to_df(self, df):
+    def clean_df(self, df):
         result_list = []
         item = []
 
@@ -175,38 +174,22 @@ class TweetAnalyzer():
     Upload .csv files to Firebase Storage
     https://www.programcreek.com/python/example/120344/pandas.compat.BytesIO
     '''
-    def upload_fire_base(self, df1, df2):
+    def upload_fire_base(self, df):
 
         firebase = pyrebase.initialize_app(config)
         storage = firebase.storage()
 
-        #
-        buf1 = BytesIO()
-        str_buf1 = StringIO()
+        buf = BytesIO()
+        str_buf = StringIO()
 
-        df1.to_csv(str_buf1, index=False)
+        df.to_csv(str_buf, index=False)
 
-        buf1 = BytesIO(str_buf1.getvalue().encode('utf-8'))
+        buf = BytesIO(str_buf.getvalue().encode('utf-8'))
 
-        file1 = buf1
-
-        path_on_cloud = self.get_account() + "/downloaded_tweets/" + self.get_filename() + ".csv"
-        path_local = file1
-        storage.child(path_on_cloud).put(path_local)
-
-
-        #
-        buf2 = BytesIO()
-        str_buf2 = StringIO()
-
-        df2.to_csv(str_buf2, index=False)
-
-        buf2 = BytesIO(str_buf2.getvalue().encode('utf-8'))
-
-        file2 = buf2
+        file = buf
 
         path_on_cloud = self.get_account() + "/sentiment_data/" + self.get_filename() + "_sentiment" + ".csv"
-        path_local = file2
+        path_local = file
         storage.child(path_on_cloud).put(path_local)
 
     '''

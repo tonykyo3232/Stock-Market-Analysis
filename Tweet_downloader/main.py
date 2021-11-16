@@ -15,21 +15,18 @@ def get_twitter_feed(x, y):
 
     tweet_analyzer.set_num_of_tweets(y)
 
-    df1 = tweet_analyzer.tweets_to_data_frame1(tweets)
-
-    df2 = tweet_analyzer.tweets_to_data_frame2(tweets)
+    df = tweet_analyzer.tweets_to_data_frame(tweets)
 
     # upload the file to firebase
-    tweet_analyzer.upload_fire_base(df1, df2)
-
+    tweet_analyzer.upload_fire_base(df)
 
 def main():
 
     # loop though the desired twitter accounts and download tweets
     for key, value in twitter_accounts.items():
         print("Downloading tweets from @" + value + "...")
-        get_twitter_feed(value, 2000)
+        get_twitter_feed(value, 150)
         print("@" + value + " tweets download completed")
-        time.sleep(5) 
+        time.sleep(1) 
     
 main()
