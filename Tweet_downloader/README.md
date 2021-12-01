@@ -1,0 +1,1 @@
+downloaded 150 tweets daily from each Twitter account. Since the date are restricted in currnet day, it only contain the tweets at current day.
