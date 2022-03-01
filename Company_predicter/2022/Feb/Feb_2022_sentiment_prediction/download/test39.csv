@@ -1,0 +1,18 @@
+company,sentiment
+ServiceNow,positive
+Salesforce,neutral
+Morgan Stanley,neutral
+ServiceNow,wpositive
+ServiceNow,positive
+ServiceNow,positive
+Target,wnegative
+ServiceNow,positive
+Amazon,neutral
+Walmart,wpositive
+Tesla,positive
+Verizon,positive
+ServiceNow,neutral
+Microsoft,neutral
+AT&T,neutral
+Tesla,wpositive
+Starbucks,positive

@@ -1,0 +1,16 @@
+company,sentiment
+Blackstone,wnegative
+Tesla,neutral
+Target,wpositive
+Tesla,neutral
+Tesla,neutral
+Alibaba,wpositive
+JD.com,wpositive
+Tencent,wpositive
+Alibaba,wpositive
+JD.com,wpositive
+Tencent,wpositive
+AT&T,neutral
+Verizon,neutral
+AT&T,neutral
+Verizon,neutral

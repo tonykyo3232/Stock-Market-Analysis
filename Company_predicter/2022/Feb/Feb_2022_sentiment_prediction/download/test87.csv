@@ -1,0 +1,9 @@
+company,sentiment
+ServiceNow,wnegative
+ServiceNow,wnegative
+ServiceNow,wpositive
+ServiceNow,wpositive
+ServiceNow,neutral
+ServiceNow,neutral
+Netflix,neutral
+Netflix,neutral

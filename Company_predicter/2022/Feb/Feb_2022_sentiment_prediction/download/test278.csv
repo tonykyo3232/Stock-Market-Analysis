@@ -1,0 +1,7 @@
+company,sentiment
+CVS,wpositive
+Netflix,wpositive
+Intel,neutral
+TotalEnergies,positive
+Chevron,positive
+Intel,wnegative

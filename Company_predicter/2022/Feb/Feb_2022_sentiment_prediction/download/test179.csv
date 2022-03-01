@@ -1,0 +1,7 @@
+company,sentiment
+Morgan Stanley,neutral
+Tesla,wnegative
+Tesla,wnegative
+Goldman Sachs,wpositive
+JPMorgan Chase,negative
+Goldman Sachs,negative

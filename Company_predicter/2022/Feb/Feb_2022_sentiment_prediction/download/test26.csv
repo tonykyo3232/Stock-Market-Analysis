@@ -1,0 +1,15 @@
+company,sentiment
+Disney,wpositive
+Microsoft,neutral
+Visa,neutral
+American Express,negative
+Raytheon Technologies,negative
+Johnson & Johnson,negative
+Amazon,wpositive
+Johnson & Johnson,wpositive
+Raytheon Technologies,wpositive
+American Express,wpositive
+Verizon,wpositive
+Raytheon Technologies,neutral
+Johnson & Johnson,neutral
+American Express,neutral

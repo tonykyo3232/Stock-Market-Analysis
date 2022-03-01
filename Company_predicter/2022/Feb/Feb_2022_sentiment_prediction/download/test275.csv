@@ -1,0 +1,6 @@
+company,sentiment
+Amazon,wpositive
+Microsoft,neutral
+Microsoft,negative
+Amazon,wpositive
+Unilever,negative

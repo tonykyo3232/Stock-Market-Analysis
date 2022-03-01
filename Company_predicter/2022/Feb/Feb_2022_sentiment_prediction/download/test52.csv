@@ -1,0 +1,30 @@
+company,sentiment
+Intel,positive
+Advanced Mirco Devices,positive
+ServiceNow,positive
+Disney,wpositive
+Verizon,wpositive
+ServiceNow,positive
+ServiceNow,wpositive
+Microsoft,neutral
+ServiceNow,wpositive
+ServiceNow,wpositive
+Netflix,positive
+Verizon,wpositive
+Tesla,neutral
+Apple,positive
+Netflix,positive
+PayPal,positive
+Tesla,positive
+UnitedHealth,positive
+Tesla,neutral
+Sony,neutral
+Microsoft,neutral
+ServiceNow,neutral
+Bank of America,neutral
+UnitedHealth,neutral
+Tesla,neutral
+Cisco,negative
+Tesla,wnegative
+Tesla,neutral
+Microsoft,wpositive

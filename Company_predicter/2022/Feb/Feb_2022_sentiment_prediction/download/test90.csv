@@ -1,0 +1,20 @@
+company,sentiment
+Disney,wpositive
+Disney,wpositive
+Philip Morris International,neutral
+McDonald,spositive
+Tencent,neutral
+Disney,neutral
+McDonald,neutral
+Apple,wpositive
+Pfizer,positive
+Johnson & Johnson,positive
+Tesla,wnegative
+Tesla,wnegative
+NVIDIA,neutral
+Advanced Mirco Devices,neutral
+Eli Lilly,neutral
+Eli Lilly,negative
+AstraZeneca,negative
+Pfizer,negative
+Merck,negative

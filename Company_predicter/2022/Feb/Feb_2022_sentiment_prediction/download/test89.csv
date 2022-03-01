@@ -1,0 +1,21 @@
+company,sentiment
+Apple,wpositive
+Alibaba,wnegative
+JD.com,wnegative
+Alibaba,wnegative
+JD.com,wnegative
+Tesla,neutral
+Apple,neutral
+Microsoft,neutral
+Intel,neutral
+Johnson & Johnson,neutral
+Verizon,neutral
+Texas Instruments,neutral
+Boeing,neutral
+AT&T,neutral
+McDonald,neutral
+Mastercard,neutral
+Visa,neutral
+Caterpillar,neutral
+Chevron,neutral
+American Express,neutral

@@ -1,0 +1,12 @@
+company,sentiment
+Amazon,neutral
+Netflix,neutral
+Tesla,neutral
+Chevron,wpositive
+Intel,wnegative
+Advanced Mirco Devices,wnegative
+Advanced Mirco Devices,neutral
+Intel,wpositive
+Advanced Mirco Devices,wpositive
+Advanced Mirco Devices,wnegative
+ServiceNow,wnegative

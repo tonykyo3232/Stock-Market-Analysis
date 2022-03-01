@@ -1,0 +1,10 @@
+company,sentiment
+Advanced Mirco Devices,wpositive
+ServiceNow,wnegative
+Apple,positive
+Chevron,positive
+Visa,positive
+Chevron,wnegative
+Apple,wpositive
+Apple,wnegative
+Apple,wpositive

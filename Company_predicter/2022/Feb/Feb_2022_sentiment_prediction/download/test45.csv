@@ -1,0 +1,17 @@
+company,sentiment
+ServiceNow,wpositive
+ServiceNow,positive
+Apple,neutral
+Amazon,neutral
+AT&T,positive
+Apple,wnegative
+Citi,wpositive
+Apple,wpositive
+ServiceNow,wpositive
+Apple,wpositive
+Adobe,wpositive
+Philip Morris International,positive
+ServiceNow,wpositive
+Philip Morris International,snegative
+Facebook,spositive
+ServiceNow,wpositive

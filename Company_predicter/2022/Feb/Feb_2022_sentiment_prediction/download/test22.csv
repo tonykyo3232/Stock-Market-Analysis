@@ -1,0 +1,4 @@
+company,sentiment
+AT&T,wnegative
+Netflix,wpositive
+Union Pacific,wpositive

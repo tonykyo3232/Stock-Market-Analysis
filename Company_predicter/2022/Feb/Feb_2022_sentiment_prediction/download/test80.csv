@@ -1,0 +1,18 @@
+company,sentiment
+Apple,wpositive
+Alibaba,wpositive
+Apple,wpositive
+Alibaba,wpositive
+Facebook,wpositive
+Facebook,wpositive
+Anheuser-Busch,neutral
+Pepsi,neutral
+Netflix,neutral
+UnitedHealth,neutral
+Procter & Gamble,neutral
+ASML,neutral
+Morgan Stanley,neutral
+Bank of America,neutral
+Goldman Sachs,neutral
+Union Pacific,neutral
+Charles Schwab,neutral

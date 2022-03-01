@@ -1,0 +1,16 @@
+company,sentiment
+Apple,positive
+Qualcomm,positive
+Visa,wpositive
+Toyota,wpositive
+Amazon,wpositive
+Microsoft,wpositive
+Alphabet,wpositive
+Apple,neutral
+Verizon,wpositive
+AT&T,wpositive
+Citi,wpositive
+BlackRock,positive
+Disney,negative
+Netflix,negative
+Airbnb,neutral

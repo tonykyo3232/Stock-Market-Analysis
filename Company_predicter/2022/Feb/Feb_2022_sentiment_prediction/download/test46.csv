@@ -1,0 +1,17 @@
+company,sentiment
+ServiceNow,positive
+Visa,neutral
+Amazon,neutral
+ServiceNow,positive
+ServiceNow,positive
+Target,neutral
+Apple,neutral
+Apple,wpositive
+Apple,neutral
+Apple,neutral
+ServiceNow,positive
+ServiceNow,wpositive
+Apple,wnegative
+Alibaba,neutral
+Alibaba,neutral
+ServiceNow,positive

@@ -1,0 +1,12 @@
+company,sentiment
+Microsoft,positive
+Microsoft,positive
+Microsoft,positive
+Microsoft,positive
+Amazon,wpositive
+Microsoft,wnegative
+Microsoft,neutral
+Amazon,wpositive
+Microsoft,wnegative
+Tencent,wnegative
+Sony,wnegative

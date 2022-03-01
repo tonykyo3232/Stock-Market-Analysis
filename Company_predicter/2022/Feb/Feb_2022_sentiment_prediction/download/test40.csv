@@ -1,0 +1,15 @@
+company,sentiment
+Amazon,neutral
+Airbnb,neutral
+ServiceNow,positive
+AT&T,positive
+ServiceNow,positive
+Starbucks,wpositive
+ServiceNow,wpositive
+AT&T,neutral
+Starbucks,wpositive
+Samsung,wpositive
+Samsung,wpositive
+Tencent,wpositive
+Alibaba,spositive
+Walmart,wpositive

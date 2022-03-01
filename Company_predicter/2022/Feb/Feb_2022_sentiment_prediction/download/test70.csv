@@ -1,0 +1,16 @@
+company,sentiment
+Disney,neutral
+Disney,neutral
+Netflix,neutral
+Netflix,neutral
+Bank of America,wpositive
+Wells Fargo,wpositive
+Apple,neutral
+Apple,neutral
+AT&T,neutral
+Coca-Cola,wnegative
+Apple,neutral
+Apple,neutral
+Eli Lilly,positive
+Tesla,wpositive
+Volkswagen,positive

@@ -1,0 +1,11 @@
+company,sentiment
+Tesla,wpositive
+Salesforce,wpositive
+Tesla,wpositive
+Salesforce,wpositive
+Disney,positive
+Disney,positive
+AT&T,positive
+Amazon,positive
+Disney,wpositive
+AT&T,wpositive

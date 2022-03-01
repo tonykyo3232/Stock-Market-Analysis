@@ -1,0 +1,11 @@
+company,sentiment
+Microsoft,wpositive
+Chevron,wpositive
+Disney,wpositive
+Starbucks,positive
+Nike,spositive
+Tesla,wpositive
+Tesla,wnegative
+Apple,positive
+Qualcomm,positive
+Visa,wpositive

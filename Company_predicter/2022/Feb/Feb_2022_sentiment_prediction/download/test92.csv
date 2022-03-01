@@ -1,0 +1,16 @@
+company,sentiment
+Philip Morris International,wpositive
+Amazon,neutral
+Walmart,neutral
+Amazon,neutral
+Walmart,neutral
+Walmart,wnegative
+Tesla,wnegative
+Walmart,wnegative
+Microsoft,wpositive
+Apple,wpositive
+Apple,positive
+Facebook,neutral
+Netflix,wpositive
+Netflix,wpositive
+Philip Morris International,neutral

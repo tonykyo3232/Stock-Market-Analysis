@@ -1,0 +1,13 @@
+company,sentiment
+Tesla,neutral
+Tesla,wnegative
+Amazon,neutral
+Visa,neutral
+Tesla,wpositive
+Meituan,neutral
+Amazon,neutral
+Visa,neutral
+Amazon,wpositive
+Amazon,neutral
+AT&T,wpositive
+Citi,wpositive

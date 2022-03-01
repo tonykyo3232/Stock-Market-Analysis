@@ -1,0 +1,23 @@
+company,sentiment
+Siemens,wnegative
+Apple,wnegative
+Tesla,wnegative
+Disney,neutral
+Comcast,neutral
+Netflix,neutral
+Netflix,neutral
+Comcast,neutral
+AstraZeneca,neutral
+Bristol Myers Squibb,neutral
+Tesla,wpositive
+AstraZeneca,positive
+Apple,spositive
+Apple,spositive
+Tesla,neutral
+Tesla,neutral
+Apple,wpositive
+Taiwan Semiconductor,wpositive
+Apple,wpositive
+NVIDIA,wpositive
+Comcast,positive
+Disney,positive

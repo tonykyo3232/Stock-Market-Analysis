@@ -1,0 +1,20 @@
+company,sentiment
+Coca-Cola,neutral
+Pepsi,neutral
+JPMorgan Chase,positive
+Disney,neutral
+Amazon,neutral
+Tesla,positive
+Tesla,neutral
+NVIDIA,neutral
+Apple,neutral
+Apple,wpositive
+Amazon,wpositive
+Salesforce,wpositive
+Tesla,wpositive
+Disney,wpositive
+NVIDIA,wpositive
+Disney,neutral
+Disney,neutral
+Advanced Mirco Devices,positive
+Pfizer,positive

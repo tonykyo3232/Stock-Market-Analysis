@@ -1,0 +1,9 @@
+company,sentiment
+Microsoft,neutral
+Microsoft,neutral
+Apple,neutral
+Tesla,neutral
+Amazon,neutral
+Netflix,wpositive
+Microsoft,wpositive
+BlackRock,wpositive
