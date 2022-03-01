@@ -1,0 +1,15 @@
+company,sentiment
+Apple,positive
+Qualcomm,positive
+Visa,wpositive
+Toyota,wpositive
+Apple,neutral
+Apple,neutral
+Tesla,positive
+Amazon,neutral
+Tesla,wnegative
+Amazon,wnegative
+BlackRock,neutral
+Volkswagen,neutral
+Amazon,wnegative
+Apple,neutral

@@ -1,0 +1,30 @@
+company,sentiment
+Apple,positive
+Microsoft,positive
+Amazon,positive
+Tesla,positive
+Apple,positive
+Amazon,positive
+Philip Morris International,wpositive
+Pfizer,wpositive
+Johnson & Johnson,wpositive
+Tesla,neutral
+Tesla,neutral
+Tesla,wpositive
+AT&T,wpositive
+Amazon,wpositive
+Apple,wpositive
+Amazon,wpositive
+Tesla,positive
+Tesla,positive
+Microsoft,positive
+Intel,positive
+Tesla,neutral
+Roche,positive
+Alibaba,neutral
+Apple,neutral
+Tesla,wnegative
+Tesla,wnegative
+Netflix,wnegative
+Intel,wnegative
+PayPal,wnegative

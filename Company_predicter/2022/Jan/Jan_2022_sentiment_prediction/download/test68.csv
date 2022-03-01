@@ -1,0 +1,13 @@
+company,sentiment
+AT&T,neutral
+Citi,wpositive
+AT&T,positive
+AT&T,neutral
+Disney,neutral
+Tesla,wpositive
+Apple,wpositive
+Tesla,wpositive
+Apple,wpositive
+Advanced Mirco Devices,wpositive
+NVIDIA,wpositive
+AbbVie,positive

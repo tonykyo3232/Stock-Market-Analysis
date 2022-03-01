@@ -1,0 +1,10 @@
+company,sentiment
+Tesla,positive
+Apple,negative
+Volkswagen,neutral
+Amazon,neutral
+Walmart,neutral
+Walmart,neutral
+Volkswagen,neutral
+Apple,negative
+Amazon,wpositive

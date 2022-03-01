@@ -1,0 +1,16 @@
+company,sentiment
+Citi,wpositive
+ServiceNow,positive
+ServiceNow,wpositive
+ServiceNow,wpositive
+Apple,wpositive
+Tesla,wnegative
+ServiceNow,wpositive
+Walmart,neutral
+Tesla,wnegative
+ServiceNow,positive
+Amazon,neutral
+ServiceNow,positive
+Walmart,positive
+Amazon,neutral
+ServiceNow,neutral

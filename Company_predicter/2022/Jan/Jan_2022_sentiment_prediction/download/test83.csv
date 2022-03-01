@@ -1,0 +1,17 @@
+company,sentiment
+Walmart,positive
+Walmart,positive
+Nike,wpositive
+AT&T,wpositive
+Citi,neutral
+Tesla,wpositive
+Tesla,wpositive
+Tesla,neutral
+Tesla,neutral
+Alibaba,wnegative
+Alibaba,wnegative
+JD.com,wnegative
+Tencent,wnegative
+Tesla,neutral
+Nike,neutral
+Nike,neutral

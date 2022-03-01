@@ -1,0 +1,6 @@
+company,sentiment
+AT&T,wpositive
+Citi,wpositive
+Amazon,wnegative
+Amazon,wpositive
+Facebook,wpositive

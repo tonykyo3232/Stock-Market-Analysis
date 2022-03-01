@@ -1,0 +1,10 @@
+company,sentiment
+Facebook,wpositive
+Apple,wpositive
+Pfizer,wnegative
+Starbucks,neutral
+Citi,neutral
+Boeing,wpositive
+Tesla,wpositive
+Citi,wpositive
+Starbucks,neutral

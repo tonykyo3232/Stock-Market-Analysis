@@ -1,0 +1,4 @@
+company,sentiment
+AT&T,wnegative
+Citi,wnegative
+Tesla,wpositive

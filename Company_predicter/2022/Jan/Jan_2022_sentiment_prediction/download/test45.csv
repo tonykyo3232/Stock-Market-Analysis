@@ -1,0 +1,30 @@
+company,sentiment
+ServiceNow,wnegative
+ServiceNow,wpositive
+ServiceNow,positive
+Apple,positive
+Apple,neutral
+Tesla,wpositive
+Tesla,positive
+Walmart,wpositive
+Boeing,wpositive
+Tesla,wpositive
+Apple,neutral
+JPMorgan Chase,neutral
+UPS,wpositive
+Johnson & Johnson,neutral
+Tesla,wpositive
+Chevron,positive
+Tesla,neutral
+Starbucks,spositive
+UPS,neutral
+Apple,wnegative
+ServiceNow,wnegative
+Pfizer,wpositive
+ServiceNow,neutral
+Pfizer,wpositive
+Pfizer,neutral
+Toyota,neutral
+Tesla,wpositive
+Tesla,neutral
+ServiceNow,neutral

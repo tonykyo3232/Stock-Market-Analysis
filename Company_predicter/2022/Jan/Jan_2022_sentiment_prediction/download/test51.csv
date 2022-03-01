@@ -1,0 +1,16 @@
+company,sentiment
+Oracle,neutral
+Oracle,positive
+ServiceNow,wpositive
+ServiceNow,positive
+Amazon,neutral
+ServiceNow,positive
+Starbucks,wpositive
+Chevron,neutral
+Starbucks,wpositive
+Oracle,neutral
+Nike,snegative
+Citi,neutral
+ServiceNow,wpositive
+Nike,neutral
+Amazon,neutral

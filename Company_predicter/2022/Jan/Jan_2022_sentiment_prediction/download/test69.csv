@@ -1,0 +1,25 @@
+company,sentiment
+ServiceNow,wnegative
+Apple,neutral
+Apple,neutral
+Pfizer,neutral
+AstraZeneca,neutral
+Pfizer,neutral
+AstraZeneca,neutral
+Amazon,wpositive
+Amazon,wpositive
+Disney,wpositive
+PayPal,wpositive
+Apple,neutral
+Disney,neutral
+Tesla,wpositive
+Intel,wpositive
+Intel,wpositive
+NVIDIA,wpositive
+Advanced Mirco Devices,wpositive
+ServiceNow,wpositive
+Tesla,wpositive
+Apple,wpositive
+AT&T,neutral
+Merck,positive
+Visa,neutral

@@ -1,0 +1,24 @@
+company,sentiment
+AT&T,wnegative
+Amazon,neutral
+Pfizer,neutral
+NVIDIA,neutral
+Amazon,neutral
+Pfizer,neutral
+Apple,wnegative
+Comcast,wnegative
+Netflix,wnegative
+Tesla,neutral
+Johnson & Johnson,neutral
+Bristol Myers Squibb,neutral
+Merck,neutral
+Eli Lilly,neutral
+Amazon,neutral
+Walmart,neutral
+Apple,neutral
+Netflix,neutral
+Airbnb,neutral
+Bristol Myers Squibb,positive
+Alibaba,neutral
+Tencent,neutral
+JD.com,neutral

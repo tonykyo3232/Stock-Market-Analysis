@@ -1,0 +1,5 @@
+company,sentiment
+Pfizer,neutral
+Tesla,neutral
+Microsoft,wnegative
+Tesla,wnegative

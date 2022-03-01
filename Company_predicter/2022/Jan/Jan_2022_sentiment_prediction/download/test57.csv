@@ -1,0 +1,7 @@
+company,sentiment
+Disney,neutral
+Tesla,wnegative
+Visa,wpositive
+Apple,neutral
+Apple,positive
+Qualcomm,positive

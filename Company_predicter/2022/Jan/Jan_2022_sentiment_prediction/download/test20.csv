@@ -1,0 +1,4 @@
+company,sentiment
+ServiceNow,neutral
+CVS,wnegative
+Oracle,wpositive

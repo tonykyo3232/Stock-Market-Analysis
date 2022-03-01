@@ -1,0 +1,13 @@
+company,sentiment
+Apple,neutral
+Intel,neutral
+Walmart,neutral
+Pfizer,positive
+ServiceNow,wpositive
+ServiceNow,wpositive
+ServiceNow,positive
+Pfizer,neutral
+Pfizer,neutral
+Tesla,wnegative
+ServiceNow,wpositive
+Tesla,neutral

@@ -1,0 +1,13 @@
+company,sentiment
+Sony,neutral
+Disney,neutral
+AT&T,neutral
+Comcast,neutral
+Amazon,wpositive
+Disney,wpositive
+Microsoft,snegative
+Apple,snegative
+Alphabet,snegative
+Pfizer,wpositive
+Pfizer,wpositive
+Bank of America,wpositive

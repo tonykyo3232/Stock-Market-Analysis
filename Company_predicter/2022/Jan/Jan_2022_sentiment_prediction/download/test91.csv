@@ -1,0 +1,11 @@
+company,sentiment
+Disney,neutral
+Amazon,neutral
+Apple,neutral
+ServiceNow,positive
+Tesla,wnegative
+Tesla,wpositive
+ServiceNow,wpositive
+Tesla,neutral
+Tesla,neutral
+Tesla,wnegative

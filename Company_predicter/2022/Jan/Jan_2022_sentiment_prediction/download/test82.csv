@@ -1,0 +1,10 @@
+company,sentiment
+Facebook,neutral
+Alibaba,neutral
+Disney,wpositive
+Tesla,neutral
+Alibaba,wnegative
+Alibaba,wnegative
+JD.com,wnegative
+Oracle,wnegative
+Oracle,wnegative

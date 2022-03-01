@@ -1,0 +1,6 @@
+company,sentiment
+Facebook,wpositive
+Apple,wpositive
+Apple,wpositive
+Amazon,neutral
+Tesla,wpositive

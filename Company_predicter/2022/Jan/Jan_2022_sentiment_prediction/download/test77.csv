@@ -1,0 +1,19 @@
+company,sentiment
+Pfizer,wpositive
+Pfizer,wpositive
+Tesla,neutral
+ServiceNow,positive
+Eli Lilly,neutral
+Tesla,wnegative
+Eli Lilly,positive
+Medtronic,positive
+Pfizer,positive
+Merck,positive
+AbbVie,positive
+Sanofi,positive
+Tesla,neutral
+Alibaba,neutral
+Alibaba,neutral
+JD.com,neutral
+Tesla,wpositive
+Microsoft,wpositive

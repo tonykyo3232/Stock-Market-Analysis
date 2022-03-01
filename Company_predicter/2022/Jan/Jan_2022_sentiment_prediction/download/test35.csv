@@ -1,0 +1,8 @@
+company,sentiment
+Amazon,neutral
+Amazon,wnegative
+Walmart,neutral
+Nike,neutral
+Amazon,neutral
+Pfizer,wnegative
+Costco,wpositive

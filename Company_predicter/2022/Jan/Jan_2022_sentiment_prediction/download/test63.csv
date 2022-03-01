@@ -1,0 +1,18 @@
+company,sentiment
+AT&T,wpositive
+Comcast,neutral
+Disney,neutral
+Disney,neutral
+Comcast,neutral
+Philip Morris International,positive
+Visa,wpositive
+Apple,positive
+Tesla,positive
+Sanofi,positive
+Merck,positive
+Alibaba,neutral
+Tencent,neutral
+JD.com,neutral
+AT&T,neutral
+Disney,negative
+Disney,negative

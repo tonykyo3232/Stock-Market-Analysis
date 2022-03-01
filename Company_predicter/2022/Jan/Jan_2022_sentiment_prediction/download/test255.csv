@@ -1,0 +1,6 @@
+company,sentiment
+Microsoft,neutral
+Citi,wpositive
+Tesla,wnegative
+Tesla,wpositive
+Microsoft,wnegative

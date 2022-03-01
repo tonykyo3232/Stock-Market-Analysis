@@ -1,0 +1,10 @@
+company,sentiment
+CVS,positive
+Alibaba,neutral
+Boeing,neutral
+Starbucks,neutral
+Nike,neutral
+Apple,wnegative
+Apple,wpositive
+Apple,wpositive
+ServiceNow,positive

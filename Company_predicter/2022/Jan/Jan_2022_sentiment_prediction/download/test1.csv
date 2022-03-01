@@ -1,0 +1,6 @@
+company,sentiment
+Nike,wnegative
+Caterpillar,wnegative
+Apple,wnegative
+Salesforce,wpositive
+PayPal,wpositive

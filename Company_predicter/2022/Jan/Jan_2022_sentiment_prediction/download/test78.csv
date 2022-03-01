@@ -1,0 +1,23 @@
+company,sentiment
+Advanced Mirco Devices,wpositive
+NVIDIA,wpositive
+Advanced Mirco Devices,wpositive
+ServiceNow,spositive
+Tesla,neutral
+Tesla,neutral
+Novartis,positive
+Tesla,wpositive
+Tesla,wpositive
+Alibaba,wpositive
+JD.com,wpositive
+Tencent,wpositive
+Alibaba,wpositive
+JD.com,wpositive
+Tencent,wpositive
+Disney,positive
+Nike,positive
+Tesla,snegative
+Amazon,snegative
+Tesla,snegative
+Microsoft,snegative
+Amazon,snegative

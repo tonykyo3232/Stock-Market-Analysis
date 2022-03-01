@@ -1,0 +1,11 @@
+company,sentiment
+Starbucks,neutral
+Starbucks,wnegative
+Volkswagen,neutral
+Pfizer,wpositive
+AstraZeneca,wpositive
+Volkswagen,spositive
+Amazon,wpositive
+Volkswagen,wnegative
+Apple,wnegative
+Apple,wpositive

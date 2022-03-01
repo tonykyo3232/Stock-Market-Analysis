@@ -1,0 +1,8 @@
+company,sentiment
+Walmart,neutral
+Microsoft,wpositive
+Chevron,wpositive
+Toyota,wpositive
+Amazon,neutral
+ServiceNow,positive
+BlackRock,neutral
