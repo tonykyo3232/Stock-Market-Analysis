@@ -1,0 +1,5 @@
+company,sentiment
+Amazon,neutral
+Target,wpositive
+Netflix,wpositive
+Procter & Gamble,wpositive

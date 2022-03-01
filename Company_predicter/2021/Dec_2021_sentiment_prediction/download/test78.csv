@@ -1,0 +1,15 @@
+company,sentiment
+Apple,wpositive
+Apple,wpositive
+Alibaba,positive
+Facebook,positive
+NVIDIA,neutral
+Disney,neutral
+Disney,neutral
+Advanced Mirco Devices,neutral
+Roche,positive
+Merck,positive
+Pfizer,positive
+Alibaba,wpositive
+AT&T,positive
+UPS,neutral

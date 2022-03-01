@@ -1,0 +1,17 @@
+company,sentiment
+CVS,wpositive
+Walmart,wpositive
+CVS,neutral
+Walmart,neutral
+Apple,neutral
+Apple,neutral
+ServiceNow,positive
+ServiceNow,positive
+ServiceNow,positive
+Amazon,neutral
+Tesla,positive
+Citi,wpositive
+Tesla,wpositive
+ServiceNow,wpositive
+Tesla,neutral
+ServiceNow,wpositive

@@ -1,0 +1,8 @@
+company,sentiment
+Amazon,wpositive
+Visa,wpositive
+Netflix,wpositive
+Tesla,neutral
+Netflix,positive
+AT&T,wnegative
+Tesla,positive

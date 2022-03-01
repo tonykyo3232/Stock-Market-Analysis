@@ -1,0 +1,7 @@
+company,sentiment
+Apple,wpositive
+Facebook,wpositive
+Apple,wnegative
+Citi,wpositive
+Netflix,positive
+Netflix,wnegative

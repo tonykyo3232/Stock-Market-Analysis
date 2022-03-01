@@ -1,0 +1,8 @@
+company,sentiment
+NVIDIA,wnegative
+Amazon,wnegative
+Alphabet,wnegative
+Apple,wnegative
+Microsoft,wnegative
+Tesla,wnegative
+NVIDIA,neutral

@@ -1,0 +1,39 @@
+company,sentiment
+Alibaba,neutral
+JD.com,neutral
+Facebook,neutral
+Amazon,wnegative
+Tesla,wpositive
+Tesla,neutral
+Tesla,neutral
+Sanofi,neutral
+Merck,neutral
+Bristol Myers Squibb,neutral
+Pfizer,neutral
+Apple,neutral
+Apple,neutral
+Disney,wnegative
+Disney,wnegative
+ServiceNow,wpositive
+Tesla,wpositive
+NVIDIA,wpositive
+Applied Materials,wpositive
+Intuit,wpositive
+Merck,positive
+Pfizer,positive
+Bristol Myers Squibb,positive
+Tesla,neutral
+Alibaba,negative
+JD.com,negative
+Alibaba,negative
+JD.com,negative
+Tesla,neutral
+Tesla,neutral
+Volkswagen,neutral
+Tesla,wpositive
+Tesla,wpositive
+Philip Morris International,wpositive
+ServiceNow,wpositive
+Nike,neutral
+Nike,neutral
+Facebook,neutral

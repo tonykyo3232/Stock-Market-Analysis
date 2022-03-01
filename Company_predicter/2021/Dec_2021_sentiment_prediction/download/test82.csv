@@ -1,0 +1,21 @@
+company,sentiment
+Apple,neutral
+Apple,neutral
+Tesla,neutral
+Tesla,neutral
+Philip Morris International,wpositive
+Tesla,neutral
+Disney,positive
+Disney,positive
+Tesla,wnegative
+JPMorgan Chase,wnegative
+Medtronic,positive
+NVIDIA,wpositive
+Tesla,wpositive
+ServiceNow,positive
+Tesla,neutral
+Apple,neutral
+Apple,neutral
+Tesla,neutral
+Tesla,wpositive
+Tesla,wpositive

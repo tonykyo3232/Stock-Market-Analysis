@@ -1,0 +1,15 @@
+company,sentiment
+Sony,neutral
+AT&T,neutral
+Disney,neutral
+Apple,neutral
+Citi,neutral
+Tesla,wpositive
+Tesla,wpositive
+Tesla,wpositive
+ServiceNow,positive
+Disney,neutral
+Disney,neutral
+Alibaba,wpositive
+NVIDIA,wpositive
+Alibaba,wpositive

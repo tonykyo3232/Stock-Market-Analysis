@@ -1,0 +1,12 @@
+company,sentiment
+Starbucks,wpositive
+ServiceNow,wpositive
+Tesla,wnegative
+Walmart,neutral
+Nike,spositive
+Apple,negative
+Facebook,wpositive
+Amazon,neutral
+Nike,neutral
+Tencent,wpositive
+ServiceNow,neutral

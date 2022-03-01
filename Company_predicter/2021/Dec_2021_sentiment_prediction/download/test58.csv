@@ -1,0 +1,16 @@
+company,sentiment
+Starbucks,neutral
+Apple,positive
+Qualcomm,positive
+McDonald,positive
+CVS,positive
+Tesla,neutral
+Visa,wpositive
+Amazon,positive
+Amazon,wpositive
+Amazon,neutral
+Toyota,wpositive
+Walmart,neutral
+Apple,neutral
+Tesla,positive
+Tesla,wnegative

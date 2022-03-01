@@ -1,0 +1,13 @@
+company,sentiment
+Amazon,wpositive
+Amazon,neutral
+Apple,wpositive
+Facebook,wpositive
+Nike,neutral
+Amazon,neutral
+Amazon,neutral
+Amazon,neutral
+ServiceNow,positive
+CVS,wpositive
+Tesla,wnegative
+Tesla,wnegative

@@ -1,0 +1,5 @@
+company,sentiment
+Tesla,wnegative
+Tesla,neutral
+Tesla,positive
+Tesla,wpositive

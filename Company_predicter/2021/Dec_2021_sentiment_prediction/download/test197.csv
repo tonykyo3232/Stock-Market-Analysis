@@ -1,0 +1,11 @@
+company,sentiment
+Visa,wpositive
+Amazon,wpositive
+Target,neutral
+Walmart,neutral
+Target,wpositive
+Target,neutral
+Tesla,neutral
+Cisco,neutral
+Visa,neutral
+Amazon,neutral

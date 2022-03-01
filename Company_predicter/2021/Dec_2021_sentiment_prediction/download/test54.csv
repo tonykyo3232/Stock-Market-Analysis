@@ -1,0 +1,24 @@
+company,sentiment
+ServiceNow,wpositive
+Disney,neutral
+ServiceNow,positive
+Tesla,neutral
+ServiceNow,wpositive
+ServiceNow,wpositive
+ServiceNow,wpositive
+Tesla,spositive
+Apple,spositive
+Alphabet,neutral
+JPMorgan Chase,wnegative
+Amazon,neutral
+Philip Morris International,neutral
+Amazon,neutral
+Apple,wpositive
+ServiceNow,neutral
+AT&T,neutral
+Samsung,wpositive
+Samsung,neutral
+ASML,wnegative
+Walmart,neutral
+Tesla,wpositive
+Tesla,neutral

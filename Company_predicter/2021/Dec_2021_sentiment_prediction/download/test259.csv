@@ -1,0 +1,11 @@
+company,sentiment
+Tesla,positive
+Citi,neutral
+Amazon,wpositive
+Facebook,wpositive
+AT&T,wpositive
+Verizon,wpositive
+Citi,wnegative
+Citi,wnegative
+Blackstone,neutral
+Tesla,wnegative

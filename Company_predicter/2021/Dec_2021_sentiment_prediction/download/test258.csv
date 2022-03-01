@@ -1,0 +1,6 @@
+company,sentiment
+Alibaba,wnegative
+Tesla,wpositive
+Tesla,wpositive
+Apple,neutral
+Apple,positive
